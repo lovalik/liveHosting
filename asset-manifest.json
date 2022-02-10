@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/liveHosting/static/css/main.4fb15369.css",
+    "main.js": "/liveHosting/static/js/main.cb4648a9.js",
+    "static/media/digitalicg.ttf": "/liveHosting/static/media/digitalicg.e40c80eacaa0a49d4865.ttf",
+    "static/media/Days.otf": "/liveHosting/static/media/Days.b6b84bfe2751d7db75c8.otf",
+    "static/media/rusflag.png": "/liveHosting/static/media/rusflag.a9fb6d9599f1901ceb80.png",
+    "index.html": "/liveHosting/index.html",
+    "main.4fb15369.css.map": "/liveHosting/static/css/main.4fb15369.css.map",
+    "main.cb4648a9.js.map": "/liveHosting/static/js/main.cb4648a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb15369.css",
+    "static/js/main.cb4648a9.js"
+  ]
+}
